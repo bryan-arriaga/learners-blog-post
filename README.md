@@ -1,6 +1,6 @@
 # Blog Post
 
-This is my own Blog Post where I share any and all of my new learnings and helpful tricks that I encounter while developing. The primary focus of this blog being new learnings and blockchain technologies. Sharing my knowledge with all people and developers alike.
+This is my own Blog Post where I share any and all of my new learnings and helpful tricks that I encounter while developing. The primary focus of this blog is to share new learnings such as developing, blockchain, tips. Sharing my knowledge with all people and developers alike. If any of this interests you feel free to check it out and leave a comment!
 
 Currently working on deploying and making my blog public.
 
