@@ -10,7 +10,6 @@ export const getPosts = async () => {
           cursor
           node {
             author {
-              bio
               name
               id
               photo {
